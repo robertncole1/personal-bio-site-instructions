@@ -1,4 +1,4 @@
-# Personal Bio Site 1: HTML & CSS || Using JS to Print Projects to the page
+# Personal Bio Site 1: HTML & CSS || Using JS to print projects to the page
 
 ## Requirements
 
