@@ -6,8 +6,6 @@ We will assign personal site assignments throughout the course for a couple of r
 ## Assignments
 - [Part 1: HTML & CSS || Using JS to print projects to the page](./personal-bio-site-01.md)
 
----
-
 ### Need some inspiration?
 - [Andrea Finch - Evening Cohort 5](https://aefinch.github.io/portfolio/)
 - [Dean Smith - Cohort 18](http://deanthecodesmith.com/)
