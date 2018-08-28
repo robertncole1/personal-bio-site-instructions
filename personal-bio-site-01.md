@@ -6,7 +6,7 @@
 1. Branch by feature
 1. Commit by significant change - or before you accidentally (on purpose) spill moonshine on your computer.
 
-### Create The Shell for Your Bio Site
+### Create the structure of your bio site
 1. Create 3 files: index.html, main.css, and projects.js.
 1. Use the HTML boilerplate below to create the shell of your personal bio site.
 1. Fill in the HTML where it instructs you to do so.
@@ -54,7 +54,7 @@
 
 
 ### Projects Page
-1. Create an array called `projects`; this array should hold a bunch of objects that will represent projects you complete throughout this course that you will want to include in your portfolio.
+1. Create an array and save it to a `projects` variable; this array should hold a bunch of objects that will represent projects you complete throughout this course that you will want to include in your portfolio.
 2. Each object in the array should have the following properties:
 ```js
 {
