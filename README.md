@@ -1,47 +1,20 @@
 # Personal Bio Site
-> Your portfolio site will be a touchpoint for potential employers. Employers value knowing about you, your projects, and your skills.
+> Your portfolio site will be a touchpoint for potential employers. When a potential employer looks at your personal site, it will often be their first interaction with you and something that you've made. Needless to say, you will want it to look good!
 
-## Prerequisite
+Your personal site, at a minimum, should contain your bio, contact information, and a listing of projects to which you have contributed. We will assign personal site assignments throughout the course both to practice skills we have learned and to build up something you can show off.
 
-> :warning: [Personal Bio Site 6](personal-bio-site-06.md) exercise
-
-### You will be working off of your previous iterations of your Personal Bio site.
-
-## Requirements
-
-### Make your personal site what you want.
-> Your portfolio site will be a touchpoint for potential employers. Employers value knowing about you, your projects, and your skills. It's time to show them off. You now have free reign on the styling of your portfolio site. You may use whatever CSS framework (or none) that you want. The only requirement for this is that you include a bio, contact information, a listing of projects and a listing of blogs.
-
-Use this ruberic to guide you:
+## Sections
 ##### About
-	- Is it easy to find the personal bio?
-	- Does the personal bio tell the story:
-		- Why do they want to go into development
-		- What they love about development
-		- What makes them a good developer
-	- General look and usability
+	- Your About/Bio Section should tell a story:
+		- Why do you want to go into development?
+		- What are some of your inspirations/aspirations?
 	
 ##### Contact
-	- Is it easy to find the contact information
-	- Do all of the links work
-	- General look and usability
+	- You should include links to things like your Github profile, Linkedin, Email, and/or any other social media platforms you want to include.
 
 ##### Projects
-	- Is it easy to find where the projects are
-	- Do all the projects have real content/not fake data	
-	- Do all of the links work
-	- Do all of the deployed projects work correctly
-	- General look and usability
-
-##### General look and feel of the whole site
-	- Is it visually appealing
-	- Is it cohesive
-
-###  Pair Review of Your Site
-1. You will have until Saturday 6/30 to complete this.
-1. On Saturday 6/30 you will be paired with someone in the class and you will review the usability of each other's sites. You will be using the above ruberic as a guide.
-1. After your peer review, you will have one more week to implement any fixes.
-1. After this, your website should be ready for employers to view!
+	- Your projects should be a curated list of projects. You can include both individual projects and group projects. 
+	- You should include a description of the project and a link to the code.
 
 ### Need some inspiration?
 - [Andrea Finch - Evening Cohort 5](https://aefinch.github.io/portfolio/)
@@ -56,7 +29,5 @@ Use this ruberic to guide you:
 - [Daniel Babcock - Cohort 21](http://www.danielbabcock.com/)
 - [Kelsey Pitens - Cohort 24](http://kelseypintens.com/)
 - [David Dassau - Evening Cohort 6](http://davidtdassau.com/)
+- [April Watson - Evening Cohort 7](https://aprilrwatson.com/)
 - [Crazy ridiculously cool porfolio site](http://www.rleonardi.com/interactive-resume/)
-
-### README.md
-1. Update your README for this project. Include a link to the deployed version.
