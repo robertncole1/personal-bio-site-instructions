@@ -3,7 +3,7 @@
 
 We will assign personal site assignments throughout the course for a couple of reasons -- (1) to practice skills we have learned, and (2) to build up something you can show off.
 
-### Assignments
+## Assignments
 - [Part 1: HTML & CSS || Using JS to print projects to the page](./personal-bio-site-01.md)
 
 ### Need some inspiration?
