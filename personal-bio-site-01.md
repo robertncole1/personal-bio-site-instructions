@@ -60,14 +60,15 @@
 {
   title: "Cool Project", 
   screenshot: "http://gotoflashgames.com/files/file/033.jpg", 
-  description: "This is the best project",
+  description: "This is the best project", // A good project description includes 'the what', 'the why', and 'the how'.
   technologiesUsed: "HTML, CSS, Vanilla JavaScript, Version Control with Github",
   available: true,
   url: "https://github.com/nss-evening-cohort-8/js-part-deux", // Towards the latter part of the class, you will learn how to host your projects and people will be able to view them live. Cool, right? Welp, until then, just use your GitHub link in this spot as well.
   githubUrl: "https://github.com/nss-evening-cohort-8/js-part-deux"
 }
 ```
-5. Create two functions:
-	* writeToDom:  this function should accept a string and print it to a div with an id of my-projects
-	* createProjectCards: this function should loop through the projects array and build up the html that you have on your projects page.  It should call the writeToDom function for each project.
-6.  The last line of this file should be: ```createProjectCards();```
+3. Create two functions:
+	* writeToDom:  This function should accept 2 arguments: a string to print and the ID of the element to print it in.
+	* createProjectCards: This function should loop through the projects array and build up a 'dom string' (a complex HTML structure represented by a string) that includes all the information on the project. It should call the writeToDom function for each project (hint: For this one, you'll be printing to the div with the ID `projectsPage`).
+4. Only print 'available' projects. In your `createProjectCards` function, add logic to only show the project on the page if it has a value of `true` in the `available` property.
+5.  The last line of this file should be: ```createProjectCards();```
