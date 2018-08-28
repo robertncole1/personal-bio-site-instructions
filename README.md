@@ -1,5 +1,5 @@
 # Personal Bio Site
-> Your portfolio site will be a touchpoint for potential employers. When a potential employer looks at your personal site, it will often be their first interaction with you and something that you've made. Needless to say, you will want it to look good!
+> Your portfolio site (aka personal site) will be a touchpoint for potential employers. When a potential employer looks at your personal site, it will often be their first interaction with you and something that you've made. Needless to say, you will want it to look good!
 
 Your personal site, at a minimum, should contain your bio, contact information, and a listing of projects to which you have contributed. We will assign personal site assignments throughout the course for a couple of reasons -- (1) to practice skills we have learned, and (2) to build up something you can show off.
 
