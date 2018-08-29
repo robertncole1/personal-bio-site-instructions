@@ -55,7 +55,7 @@
 
 ### Projects Section
 1. Create an array and save it to a `projects` variable; this array should hold a bunch of objects that will represent projects you complete throughout this course that you will want to include in your portfolio.
-2. Each object in the array should have the following properties:
+2. Each object in the array should have the following properties (you will use dummy data for now):
 ```js
 {
   title: "Cool Project", 
