@@ -2,6 +2,10 @@
 
 ## Requirements
 
+### Create a new directory for your personal site
+1. Because the site will span throughout your 6 months, it doesn't make sense to put it in `foundations`, `data-driven-applications` or `patterns-and-tools`, so we will create a new directory in `~/workspace`.
+1. While in `~/workspace`, make a directory called `personal-bio-site`
+
 ### Use Git/Github branching
 1. Branch by feature
 1. Commit by significant change - or before you accidentally (on purpose) spill moonshine on your computer.
