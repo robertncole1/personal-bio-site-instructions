@@ -5,6 +5,7 @@ We will assign personal site assignments throughout the course for a couple of r
 
 ## Assignments
 - [Part 1: HTML & CSS || Using JS to print projects to the page](./personal-bio-site-01.md)
+- [Part 2: Making your Personal Bio Site a Single Page Application](./personal-bio-site-02.md)
 > ... more coming soon!
 
 ### Need some inspiration?
