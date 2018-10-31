@@ -15,7 +15,7 @@
 Once you update your project to do this, the following should be true:
 - You should be able to lint, bundle and run the project using the command: `npm start`
 - Your code should bundle without any errors
-- jQuery and Bootsrap should be included through importing instead of CDN links in the HTML
+- jQuery and Bootstrap should be included through importing instead of CDN links in the HTML
 - You should have no more CSS files, but SCSS files.
 - Your README should be updated to reflect the steps another user would need to take to run your project on their machine
 
