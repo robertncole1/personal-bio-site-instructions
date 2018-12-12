@@ -8,9 +8,7 @@ We will assign personal site assignments throughout the course for a couple of r
 - [Part 2: Making your Personal Bio Site a Single Page Application](./personal-bio-site-02.md)
 - [Part 3: Making your Personal Bio Site Data-Driven](./personal-bio-site-03.md)
 - [Part 4: Making your Personal Bio Site Data-Driven - 🔥base edition](./personal-bio-site-04.md)
-
-
-> ... more coming soon!
+- [Part 5: Making your Personal Bio Site Official](./personal-bio-site-05.md)
 
 ### Need some inspiration?
 - [Andrea Finch - Evening Cohort 5](https://aefinch.github.io/portfolio/)
