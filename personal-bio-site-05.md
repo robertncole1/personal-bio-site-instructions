@@ -1,6 +1,6 @@
 # Personal Bio Site Finale 🎉🎉🎉
 
-1. You should go through AT LEAST 3 projects and deploy them with Firebase.
+1. You should go through AT LEAST 3 projects (individual or group) and deploy them with Firebase.
 1. Each project marked as 'available' (shown on the DOM) should have a clickable link that goes to the deployed site.
 1. You should have real data everywhere throughout your personal site. No lorem.
 1. Completed README (description, screenshots, 'how to run', and link to deployed site).
@@ -23,7 +23,7 @@
 ##### Technologies
 	- Is it easy to find where the technologies are
 	- Do all the technologies have real content/not fake data
-  - Do you _actually_ have experience with the technology (can you explain what it does and why you used it)
+  	- Do you _actually_ have experience with the technology (can you explain what it does and why you used it)
 	- General look and usability
 
 ##### Projects
