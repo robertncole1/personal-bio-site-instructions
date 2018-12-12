@@ -3,6 +3,7 @@
 1. You should go through AT LEAST 3 projects and deploy them with Firebase.
 1. Each project marked as 'available' (shown on the DOM) should have a clickable link that goes to the deployed site.
 1. You should have real data everywhere throughout your personal site. No lorem.
+1. Completed README (description, screenshots, 'how to run', and link to deployed site).
 
 > Your completed personal site will be reviewed by your instructor before you start your capstone.
 
