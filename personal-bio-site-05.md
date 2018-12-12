@@ -23,7 +23,7 @@
 ##### Technologies
 	- Is it easy to find where the technologies are
 	- Do all the technologies have real content/not fake data
-  	- Do you _actually_ have experience with the technology (can you explain what it does and why you used it)
+  	- Do you actually have experience with the technology (can you explain what it does and why you used it)
 	- General look and usability
 
 ##### Projects
