@@ -3,8 +3,9 @@
 ## Requirements
 
 ### Create a new directory for your personal site
-1. Because the site will span throughout your 6 months, it doesn't make sense to put it in `foundations`, `data-driven-applications` or `patterns-and-tools`, so we will create a new directory in `~/workspace`.
-1. While in `~/workspace`, make a directory called `personal-bio-site`
+1. Because the site will span throughout your 6 months we are going to put it in a special folder
+1. While in `~/workspace/projects/personal`, make a directory called `personal-bio-site`
+1. Push up the README.md to a master branch and then make a setup branch for all your usual setup.
 
 ### Use Git/Github branching
 1. Branch by feature
@@ -72,7 +73,7 @@
 }
 ```
 3. Create two functions:
-	* writeToDom:  This function should accept 2 arguments: a string to print and the ID of the element to print it in.
-	* createProjectCards: This function should loop through the projects array and build up a 'dom string' (a complex HTML structure represented by a string) that includes all the information on the project. It should call the writeToDom function for each project (hint: For this one, you'll be printing to the div with the ID `projectsPage`).
+	* printToDom:  This function should accept 2 arguments: the ID of the element to print it in and a string to print.
+	* createProjectCards: This function should loop through the projects array and build up a 'dom string' (a complex HTML structure represented by a string) that includes all the information on the project. It should call the printToDom function for each project (hint: For this one, you'll be printing to the div with the ID `projectsPage`).
 4. Only print 'available' projects. In your `createProjectCards` function, add logic to only show the project on the page if it has a value of `true` in the `available` property.
-5.  The last line of this file should be: ```createProjectCards();```
+5.  Call the ```createProjectCards();``` function in an init function that runs when the project loads.
