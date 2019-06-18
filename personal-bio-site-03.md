@@ -2,28 +2,18 @@
 
 ## Prerequisite
 
-> :warning: This exercise requires you to have completed the [Part 2: Making your Personal Bio Site a Single Page Application](personal-bio-site-02.md) exercise
+> :warning: This exercise requires you to have completed the [Part 2: Making your Personal Bio Site a Single Page Application](./personal-bio-site-02.md) exercise
 
 ## Requirements
 
-### Use Task Runners
-> You should be using task runners to
-  1. Bundle your application
-  1. Lint your JavaScript files
-  1. Include application dependencies
-  
-Once you update your project to do this, the following should be true:
-- You should be able to lint, bundle and run the project using the command: `npm start`
-- Your code should bundle without any errors
-- jQuery and Bootstrap should be included through importing instead of CDN links in the HTML
-- You should have no more CSS files, but SCSS files.
-- Your README should be updated to reflect the steps another user would need to take to run your project on their machine
+### Deploy 3 Projects
+Look back at the projects you have completed (HW, group projects, or in class assignments) and pick three that you think turned out well.  Use firebase to deploy all three of these projects.  You will find instructions for deploying projects with webpack and projects that were written before webpack [HERE](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-3-data-driven-applications/chapters/firebase-deploy.md)
 
-### Read Your Projects From a Local JSON File
+### Add in Projects to your site
 - Create a projects.json file and put your project objects in this file
-- Serve this file with JSON server for local development
-- Read the file with Promises and AJAX
+- Import this data into a new firebase project
+- Use an axios.get to get that data from firebase.  Then use this data to populate the projects section of your site.
 
-## Career Development:
-
-### Apply the lessons from the Career Team's talk to your personal site. Aside from the projects loaded in, the rest of the data should be REAL.
+### Deploy your personal site
+- Deploy your personal site to firebase
+- Send the link to your personal site to Zoe (your site doesn't need to be done to send Zoe the link she is just keeping track of the links for now.)
