@@ -13,6 +13,7 @@ Look back at the projects you have completed (HW, group projects, or in class as
 - Create a projects.json file and put your project objects in this file
 - Import this data into a new firebase project
 - Use an axios.get to get that data from firebase.  Then use this data to populate the projects section of your site.
+- You should probably refactor your code to use webpack....
 
 ### Deploy your personal site
 - Deploy your personal site to firebase
