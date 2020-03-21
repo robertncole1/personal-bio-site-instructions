@@ -10,11 +10,11 @@
 Look back at the projects you have completed (HW, group projects, or in class assignments) and pick three that you think turned out well.  Use firebase to deploy all three of these projects.  You will find instructions for deploying projects with webpack and projects that were written before webpack [HERE](https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-3-data-driven-applications/chapters/firebase-deploy.md)
 
 ### Add in Projects to your site
-- Create a projects.json file and put your project objects in this file
+- Create a projects.json file and put your project objects in this file (this just means remove the projects array from projectsData.js and turn it into a json file)
 - Import this data into a new firebase project
-- Use an axios.get to get that data from firebase.  Then use this data to populate the projects section of your site.
-- You should probably refactor your code to use webpack....
+- Use an axios.get to get that data from firebase.  Then use this data to populate the projects section of your site. (this just means make an axios call in your get function instead of returning the projects array)
+- this project has NO authentication - you don't need to do any of that authentication stuff
 
 ### Deploy your personal site
 - Deploy your personal site to firebase
-- Send the link to your personal site to Zoe (your site doesn't need to be done to send Zoe the link she is just keeping track of the links for now.)
+- Send the link to your personal site to Zoe (your site doesn't need to be done to send Zoe the link - she is just keeping track of the links for now.)
