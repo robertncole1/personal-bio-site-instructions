@@ -17,4 +17,4 @@ Look back at the projects you have completed (HW, group projects, or in class as
 
 ### Deploy your personal site
 - Deploy your personal site to firebase
-- Send the link to your personal site to Zoe (your site doesn't need to be done to send Zoe the link - she is just keeping track of the links for now.)
+- Send the link to your personal site to your lead instructor (your site doesn't need to be done to send the link - we are just keeping track of the links for now.)
