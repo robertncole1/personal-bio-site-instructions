@@ -2,7 +2,7 @@
 
 1. You should go through AT LEAST 4 projects (individual or group) and deploy them with Firebase.
 1. Each project should have a clickable link that goes to the deployed site.
-1. You should have real data everywhere throughout your personal site. No lorem.
+1. You should have real data everywhere throughout your personal site. **No lorem**.
 1. Completed README (description, screenshots, 'how to run', and link to deployed site).
 
 > :warning: Don't forget to re-deploy any changes you make to firebase.
@@ -11,6 +11,7 @@
 
 ##### About
 	- Is it easy to find the personal bio?
+	        - Bonus points for having your own custom domain and redirecting to your deployed site
 	- Does the personal bio tell the story:
 		- Why do they want to go into development
 		- What they love about development
