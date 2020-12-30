@@ -1,6 +1,6 @@
 # Personal Bio Site Finale 🎉🎉🎉
 
-1. You should go through AT LEAST 4 projects (individual or group) and deploy them with Firebase.
+1. You should go through AT LEAST 4 projects (individual or group) and deployed them.
 1. Each project should have a clickable link that goes to the deployed site.
 1. You should have real data everywhere throughout your personal site. **No lorem**.
 1. Completed README (description, screenshots, 'how to run', and link to deployed site).
