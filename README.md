@@ -23,7 +23,6 @@ We will assign personal site assignments throughout the course for a couple of r
 - [Eric Denton - Cohort 14](https://iamericanartist.github.io/)
 - [Dominic Serrano - Cohort 14](https://dominicserrano.com/project)
 - [Daniel Babcock - Cohort 21](http://www.danielbabcock.com/)
-- [Kelsey Pitens - Cohort 24](http://kelseypintens.com/)
 - [David Dassau - Evening Cohort 6](http://davidtdassau.com/)
 - [April Watson - Evening Cohort 7](https://aprilrwatson.com/)
 - [Crazy ridiculously cool porfolio site](http://www.rleonardi.com/interactive-resume/)
