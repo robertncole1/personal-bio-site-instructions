@@ -3,6 +3,9 @@
 
 We will assign personal site assignments throughout the course for a couple of reasons -- (1) to practice skills we have learned, and (2) to build up something you can show off.
 
+- CREATE A NEW BRANCH FOR EACH PART OF YOUR ASSIGNMENT
+  - Branch off of that branch to make updates and make PRs against that branch
+
 ## Assignments
 - [Part 1: HTML & CSS || Using JS to print projects to the page](./personal-bio-site-01.md)
 - [Part 2: Making your Personal Bio Site a Single Page Application](./personal-bio-site-02.md)
