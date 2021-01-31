@@ -32,7 +32,6 @@ ul.navLinks li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  vertical-align: middle;
 }
 
 ul.navLinks li a:hover:not(.active) {
@@ -72,6 +71,16 @@ ul.navLinks li a.active {
   padding: 50px;
 }
 
+#technologiesPage {
+  padding: 50px;
+}
+
+#projectsPage {
+  padding-bottom: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
 .fullPage li {
   list-style-type: none;
   display: inline-block;
@@ -83,4 +92,22 @@ ul.navLinks li a.active {
   background-color: #e9e9e9;
   text-align: center;
   padding: 10px;
+}
+
+.img-container {
+  background-size: cover;
+  background-position: center;
+  width: 130px;
+  height: 100px;
+  margin: auto;
+}
+
+.card-body {
+  margin: 30px;
+  padding: 30px;
+  background-color: #e9e9e9;
+}
+
+#technologies {
+  padding: 0;
 }
